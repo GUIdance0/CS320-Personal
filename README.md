@@ -1,2 +1,4 @@
 # CS320-Personal
-guess what it's for CS320 that's it
+This is an academic git repo currently.
+
+Repository for Git Setup, Michael Kimmer
